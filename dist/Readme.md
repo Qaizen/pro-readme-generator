@@ -1,9 +1,8 @@
-# title
-
-    [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
+# testing generator
+  
   ## Description:
-  - describe
+  - [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+  - md generator
 
   ## Table of Contents:
   - [Installation](#installation)
@@ -15,21 +14,21 @@
   
   ## Installation
   Run the following command for installation:
-  - install
+  - install and follow instructions
  
   ## Usage:
-  - use
+  - test
  
   ## Contribution:
-  - 
+  - test
   
   ## Test:
   Run the following comand to run the test:
-  - 
+  - test
  
   ## License:
-  - MIT
+  - GNU
   ## Questions:
-  - If you have any questions, please email me at email
-  - [My GitHub link](https://github.com/name)
+  - If you have any questions, please email me at test@test.com
+  - [My GitHub link](https://github.com/qaizen)
 
