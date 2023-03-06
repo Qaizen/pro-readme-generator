@@ -1,8 +1,8 @@
-# testing generator
+# module9
   
   ## Description:
   - [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
-  - md generator
+  - readme generator
 
   ## Table of Contents:
   - [Installation](#installation)
@@ -14,21 +14,21 @@
   
   ## Installation
   Run the following command for installation:
-  - install and follow instructions
+  - install locally
  
   ## Usage:
-  - test
+  - use accordingly
  
   ## Contribution:
-  - test
+  - email me
   
   ## Test:
   Run the following comand to run the test:
-  - test
+  - test 123
  
   ## License:
   - GNU
   ## Questions:
-  - If you have any questions, please email me at test@test.com
+  - If you have any questions, please email me at test@gmail.com
   - [My GitHub link](https://github.com/qaizen)
 
