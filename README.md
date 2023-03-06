@@ -16,4 +16,4 @@ Run "node index.js" in command line interface, answer input questions, and readm
 
 ## Video Link
 
-![Screenshot](/asset/images/weatherdash_screenshot.jpeg)
+[Video Link](https://youtu.be/JiwDQ8MsAho)

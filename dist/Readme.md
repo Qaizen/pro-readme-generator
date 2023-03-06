@@ -1,5 +1,5 @@
-# module9
-  
+# pro readme generator
+
   ## Description:
   - [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
   - readme generator
@@ -14,17 +14,17 @@
   
   ## Installation
   Run the following command for installation:
-  - install locally
+  - clone and install npm
  
   ## Usage:
-  - use accordingly
+  - answer input questions
  
   ## Contribution:
-  - email me
+  - share
   
   ## Test:
   Run the following comand to run the test:
-  - test 123
+  - answer all of the questions
  
   ## License:
   - GNU
